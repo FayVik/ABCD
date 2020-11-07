@@ -1,0 +1,75 @@
+body{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.landing-image{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.747), rgba(0, 0, 0, 0.747)), 
+    url('image/thought-catalog-bj8U389A9N8-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 34px;
+    text-transform: capitalize ;
+}
+.landing-image-1{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.747), rgba(0, 0, 0, 0.747)), 
+    url('image/pexels-photo-5698697.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 34px;
+}
+.landing-image-2{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.747), rgba(0, 0, 0, 0.747)), 
+    url('image/pexels-pixabay-315788.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 34px;
+}
+.center{
+    position: absolute;
+    top: 40%;
+}
+h1{
+    font-size: 30px;
+    font-weight: 600;
+    text-align: justify
+}
+p{
+    text-align: justify;
+}
+.size{
+    min-height: 100vh;
+}
+h3{
+    color: #5cb85c;
+    font-size: 22px;
+}
+.card{
+    height: 80vh;
+}
+.card img{
+    width: 100%;
+}
+.bg{
+    font-weight: 800;
+}
+.bg p{
+    text-align: center;
+    font-size: 20px;
+}
+footer{
+    width: 100%;
+    min-height: 40vh;  
+    background: #3a3b3c;
+}
