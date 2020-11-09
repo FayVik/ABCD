@@ -118,6 +118,14 @@ input {
 	outline: none !important;
 	box-shadow: none !important;
 }
+.btn {
+	color: #ffffff;
+	background: rgb(255, 60, 0);
+	padding: 10px 40px;
+}
+.btn:hover {
+	color: #ffffff;
+}
 footer {
 	width: 100%;
 	min-height: 50vh;
